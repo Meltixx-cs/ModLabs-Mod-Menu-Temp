@@ -44,7 +44,7 @@
 
 <img src="ModLabsMenuTemp.png" width="800" alt="ModLabs Mod Checker">
 
-*Tuff Checker*
+
 
 </div>
 
