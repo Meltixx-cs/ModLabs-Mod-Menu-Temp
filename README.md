@@ -5,7 +5,7 @@
 ## https://discord.gg/Tp2XKjSMN3
 ### A ready to go mod checker template without changing anyting
 
-![Downloads](https://img.shields.io/github/downloads/Meltixx-cs/ModLabs-Mod-Checker-Temp/ModLabs.zip?style=for-the-badge&logo=github&label=Downloads)
+![GitHub Downloads](https://img.shields.io/github/downloads/Meltixx-cs/ModLabs-Mod-Checker-Temp/total?style=for-the-badge&logo=github&label=Downloads&cacheSeconds=300)
 ![GitHub Stars](https://img.shields.io/github/stars/Meltixx-cs/ModLabs-Mod-Menu-Temp?style=for-the-badge&logo=github)
 ![GitHub Release](https://img.shields.io/github/v/release/Meltixx-cs/ModLabs-Mod-Menu-Temp?style=for-the-badge&logo=github&label=Latest)
 ![Discord](https://img.shields.io/discord/1360414283346743429?style=for-the-badge&logo=discord&logoColor=white&label=Discord)
