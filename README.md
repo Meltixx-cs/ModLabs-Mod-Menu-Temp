@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="modlabs-checker.png" width="800" alt="ModLabs Mod Checker">
+<img src="ModLabsMenuTemp.png" width="800" alt="ModLabs Mod Checker">
 
 *Tuff Checker*
 
