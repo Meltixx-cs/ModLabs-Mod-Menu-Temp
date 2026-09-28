@@ -1,7 +1,7 @@
 
 <div align="center">
 
-#  ModLabs Mod Checker Temp
+#  ModLabs Mod Menu Temp
 ## https://discord.gg/Tp2XKjSMN3
 ### A ready to go mod checker template without changing anyting
 
