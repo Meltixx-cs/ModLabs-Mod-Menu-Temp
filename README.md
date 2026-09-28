@@ -18,12 +18,13 @@
 
 1. Download the .zip file
 2. Extract it
-3. Locate the ModLabs folder with all the scripts 
-4. Shift right click in the folder click open with visual studio
-5. Find ModLabsCheckerTemp/CheckerTemp.cs
-6. Do CRTL + F and search for "ModLabsTemp"
-7. Change everything thats highlighted to your checker name
+3. Locate the ModLabsMenuTemp folder keep on clicking it until you find ModLabs.sln
+4. Double click ModLabs.sln
+5. The rest of the steps on how to edit it is inside config.cs
+6. Now hit the play green button at the top to build it
+7. Gorilla tag should launch if it did then you fully got it working
 8. Thats it have fun!
+Pls do not remove the developer credits
 
 
 
